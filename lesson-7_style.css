@@ -1,0 +1,37 @@
+body {
+    color: #333;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-style: italic;
+}
+
+#position {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.tabl-1 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.list-1 {
+    list-style-type: square;
+}
+
+.link-1 {
+    color: #00f;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.link-1:hover {
+    text-decoration: none;
+}
+
+.link-1:visited {
+    color: #005;
+    text-decoration: underline;
+}
